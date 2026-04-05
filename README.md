@@ -81,5 +81,4 @@ queries/
 routes/
 validators/
 utils/
-app.js
 server.js
